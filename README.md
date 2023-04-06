@@ -14,15 +14,6 @@
 - ⚡ Fun fact: **Game, Movie**
 
 # About My Github
-![My github stats](https://github-readme-stats.vercel.app/api?username=ysxGitHub&show_icons=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Christmas-Wong&show_icons=true&theme=tokyonight)
-
-
-
-
-
-
-
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ysxGitHub&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ysxGitHub)](https://github.com/Christmas-Wong/github-readme-stats)
 
