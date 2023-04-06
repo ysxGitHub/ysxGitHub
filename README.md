@@ -15,6 +15,5 @@
 
 # About My Github
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ysxGitHub&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ysxGitHub&exclude_repo=ysxGitHub.github.io
-,ysxGitHub,blogImage)](https://github.com/ysxGitHub/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ysxGitHub)](https://github.com/ysxGitHub/github-readme-stats)
 
