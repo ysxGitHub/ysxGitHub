@@ -15,7 +15,7 @@
 
 # About My Github
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ysxGitHub&show_icons=true&theme=tokyonight)
-![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ysxGitHub&layout=compact&langs_count=8&exclude_repo=ysxGitHub.github.io)
+![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ysxGitHub&layout=compact&langs_count=8)
 
 # My Skill Set  
 <table><tr><td valign="top" width="25%">
