@@ -16,6 +16,26 @@ My ![Visitor Count](https://profile-counter.glitch.me/ysxGitHub/count.svg) visit
 - 😄 You may like [Blog](ysxnote.cn)
 - ⚡ Fun fact: **Game, Movie**
 
+# About My Github
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ysxGitHub)](https://github.com/ysxGitHub/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ysxGitHub&show_icons=true&theme=tokyonight)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <!--
