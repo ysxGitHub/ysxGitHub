@@ -1,6 +1,6 @@
 <div align="center">
   <!-- knock code pictures 敲代码的图片 -->
-  <img src="" /><br>
+  <img src="https://raw.githubusercontent.com/ysxGitHub/blogImage/main/imgs/crazy.gif" /><br>
 </div>
 
 # I'm YSX <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
