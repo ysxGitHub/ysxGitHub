@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   <!-- knock code pictures 敲代码的图片 -->
   <img src="https://raw.githubusercontent.com/ysxGitHub/blogImage/main/imgs/crazy.gif" width="70"/><br>
 </div>
