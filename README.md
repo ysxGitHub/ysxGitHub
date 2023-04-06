@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/ysxGitHub/blogImage/main/imgs/crazy.gif"/><br>
 </div>
 
-# I'm YSX <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+# I'm <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"> YSX 
 
 - 🔭 I’m currently working on **HUAWEI**
 - 🌱 I’m currently learning **JAVA**
