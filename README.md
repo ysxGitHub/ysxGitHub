@@ -10,7 +10,7 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Deep Learning, Python, C/C++ and my projects
 - 📫 How to reach me: **ysxone123@gmail.com**
-- 😄 You may like [Blog](ysxnote.cn)
+- 😄 You may like [Blog](www.ysxnote.cn)
 - ⚡ Fun fact: **Game, Movie**
 
 # About My Github
