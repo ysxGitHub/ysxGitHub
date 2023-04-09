@@ -4,7 +4,7 @@
 
 # I'm YSX <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"> 
 
-- 🔭 I’m currently working on **HUAWEI**
+- 🔭 I’m currently working on **Strong Group**
 - 🌱 I’m currently learning **JAVA**
 - 👯 I’m looking to collaborate on **China** 👋🏻
 - 🤔 I’m looking for help with ...
